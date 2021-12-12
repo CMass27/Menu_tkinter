@@ -10,7 +10,6 @@ root.config(menu=mein_menu)
 def unser_command():
     pass
 
-#loooooooooooooooooooooooosssssssssssssss FÜRTH
 
 file_menu = Menu(mein_menu) #Menü erstellen
 mein_menu.add_cascade(label="File", menu=file_menu) #Sub-Menu erstellen
